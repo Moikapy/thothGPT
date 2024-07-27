@@ -1,18 +1,21 @@
-langchain>=0.2.11
-langchain-community>=0.2.10
+langchain >=0.2.11
+langchain-community >=0.2.10
 langchain-core>=0.2.23
 langchain-text-splitters>=0.2.2
 langchain-experimental>=0.0.62
 langgraph>=0.1.9
 langsmith>=0.1.90
 langchain-openai>=0.1.17
-langchain-ollama
+langchain-ollama >=0.1.0
 httpx
 duckduckgo-search>=6.2.1
 beautifulsoup4
 playwright
 numpy>=1.26.4
 openai>=1.37.0
-streamlit
-ollama
+streamlit >= 1.37.0
+ollama >=0.3.0
 watchdog
+pypdf
+langchain-chroma
+tabulate
