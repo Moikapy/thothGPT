@@ -10,7 +10,3 @@
 ```
   streamlit run main.py
 ```python
-
-
-
-https://data.ai.uky.edu/llm-upload/openai/v1
